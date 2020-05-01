@@ -1,0 +1,13 @@
+Package: descstats
+Type: Package
+Title: Contains datasets for descriptive statistics
+Version: 0.1.0
+Author: Rolando I. Valdez
+Maintainer: Rolando I. Valdez <rivaldez@uat.edu.mx>
+Description: This package contains datasets for the undergraduate descriptive statistics course.
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.1.0
